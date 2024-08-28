@@ -1,6 +1,6 @@
 - 🦇 Hi, I’m @FrancescoDelGiudice
 - 🏢 I work as a Front-end developer and Chief Memes Officer, see my work account: @belivenfrancescodelgiudice
-- 👀 I’m interested in front-end: Vue, React, Ionic, HTML, CSS
-- 🌱 Diving into Vue, learning 
+- 👀 I’m interested in front-end: Vue, React, Angular, Ionic, HTML, CSS
+- 🌱 Diving into DX
 - 🎵 My hobbies are music and writing
 - 📫 How to reach me: fra.delgiu16@gmail.com
